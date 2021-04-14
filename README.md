@@ -5,5 +5,5 @@
 - 📈 I am studing Finance and Business Analytics along side Software Engineering.
 
 This is a screen shot from Spell Cards a Language Learning game for primary students; If you are interested in this project please let me know :)
-<img src="https://user-images.githubusercontent.com/62419637/114784620-9a73bf00-9dcf-11eb-88ec-79f83bc1ed9f.jpg" width=250/>
+<img src="https://user-images.githubusercontent.com/62419637/114784620-9a73bf00-9dcf-11eb-88ec-79f83bc1ed9f.jpg" width=750/>
 
